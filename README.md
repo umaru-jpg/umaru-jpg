@@ -27,4 +27,4 @@ I am a student at a vocational high school, specializing in software engineering
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![hehe](we.mp4)
+![hehe](tehe.gif)
