@@ -12,6 +12,10 @@ Hello world, i'm Umar!
 ![](https://nirzak-streak-stats.vercel.app/?user=umaru-jpg&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=umaru-jpg&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=umaru-jpg&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
@@ -22,15 +26,3 @@ Hello world, i'm Umar!
 [![](https://visitcount.itsvg.in/api?id=umaru-jpg&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<img src="https://raw.githubusercontent.com/umaru-jpg/umaru-jpg/output/snake.svg" alt="Snake animation" />
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/umaru-jpg/umaru-jpg/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/umaru-jpg/umaru-jpg/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/umaru-jpg/umaru-jpg/output/pacman-contribution-graph.svg">
-</picture>
-
-###
