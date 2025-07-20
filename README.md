@@ -1,4 +1,4 @@
-# 💫 About Me: Hello world, i'm Umar!
+# 💫 Hello world, i'm Umar!
 I am a student at a vocational high school, specializing in software engineering
 
 
